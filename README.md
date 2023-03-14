@@ -15,3 +15,4 @@ Token address: 0x5d261f71A192b8E299eAb277108fB50e38061728;
 Network: Ethereum (Currently now on goerli testnet);
 Circulation supply: 14000;
 Decimal: 18;
+# EkomToken
