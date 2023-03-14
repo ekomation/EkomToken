@@ -16,3 +16,4 @@ Network: Ethereum (Currently now on goerli testnet);
 Circulation supply: 14000;
 Decimal: 18;
 # EkomToken
+# EkomToken
